@@ -1,0 +1,3 @@
+This is a super simple yet convenient way to reverse any text. There is a bit of wiring changes to it, so yeah. Also, there are some (slight) surprises when you upload code for example, but if you wanna tweak that, I've posted the original with no surprises too.  
+The wiring change is as follows: Reverse the brown, red, and yellow wires that are combined in one. The yellow should be in the brown wires spot, the orange in red, etc. I'll leave a pic. Thanks for checking my thing out!
+<img width="604" height="805" alt="image" src="https://github.com/user-attachments/assets/f3f20ead-a3ca-4766-8c7d-fd457bba52c5" />
